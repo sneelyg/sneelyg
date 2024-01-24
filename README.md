@@ -1,6 +1,7 @@
 # sneelyg
 💫 About Me:
-Currently working at Rankmi as a QA Analyst, as well as doing some scrum-master duties<br>Mostly Cypress.io Automation.<br><br>Looking forward to learn more coding, any language welcome!<br><br>Would be awesome to collaborate as a developer in tech companies. <br>Water is very important. Would love to work in a water-related tech compnay<br><br>Fun Fact: Green-Red colorblind.<br><br>
+Currently working at Rankmi as FullStack developer, mostly in the social-hub team.<br>
+Looking forward to learn more coding, any language welcome!<br><br>Would be awesome to collaborate as a developer in tech companies. ><br>Fun Fact: Green-Red colorblind.<br><br>
 
 
 ## 🌐 Socials:
